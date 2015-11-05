@@ -1,0 +1,23 @@
+name: OCL
+favicon: null
+layout_spectrum: 0.4060715597588569
+typography_spectrum: 0.9209549790248275
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.42832781304605305
+  lightness: 0.03469198360107839
+  saturation: 0.5375407449901104
+  rhythmicContrast: 0.35875246254727244
+purpose: []
